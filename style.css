@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.menu{
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.button{
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background: rgba(255, 20, 145, 0.856);
+    position: relative;
+}
+.button:hover{
+    background: white;
+    color: rgba(255, 20, 145, 0.856);
+    border: 2px solid rgba(255, 20, 145, 0.856);
+}
+.text{
+    margin: 30px;
+}
+.text img{
+    width: 400px;
+}
+.card{
+    margin-top: 30px;
+}
+.card img{
+    width: 200px;
+}
+.card-body{
+    text-align: center;
+}
+.about h1{
+    text-align: center;
+}
+.card-body h5{
+    font-weight: bold;
+}
+.img{
+    width: 200px;
+}
+.code{
+    text-align: center;
+}
+.bot{
+    margin-bottom: 10px;
+    border-radius: 10px;
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border: none;
+    color: white;
+    background: rgba(255, 20, 145, 0.856);
+    position: relative;
+}
+.bot:hover{
+    background: white;
+    color: rgba(255, 20, 145, 0.856);
+    border: 2px solid rgba(255, 20, 145, 0.856);
+}
+.sign img{
+    width: 300px;
+}
+.sign h1{
+    text-align: center;
+}
+.gerwax img{
+    width: 100px;
+    border-radius: 50%;
+}
+.gerwax{
+    padding: 30px;
+}
